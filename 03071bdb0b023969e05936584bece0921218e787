@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da2a55be_92ab02d6",
+        "filename": "ch.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-01-18T12:28:59Z",
+      "side": 1,
+      "message": "take this from cm for now",
+      "range": {
+        "startLine": 3,
+        "startChar": 1,
+        "endLine": 5,
+        "endChar": 27
+      },
+      "revId": "03071bdb0b023969e05936584bece0921218e787",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da2a55be_f2b87e2c",
+        "filename": "ch.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-01-18T12:28:59Z",
+      "side": 1,
+      "message": "dont need this",
+      "range": {
+        "startLine": 10,
+        "startChar": 1,
+        "endLine": 10,
+        "endChar": 27
+      },
+      "revId": "03071bdb0b023969e05936584bece0921218e787",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
